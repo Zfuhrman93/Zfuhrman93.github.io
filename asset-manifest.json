@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff7e1730.css",
-    "main.js": "/static/js/main.c87ee31b.js",
+    "main.css": "/static/css/main.675639ed.css",
+    "main.js": "/static/js/main.0531a78f.js",
     "static/js/787.3ba5e41c.chunk.js": "/static/js/787.3ba5e41c.chunk.js",
     "static/media/Me.jpg": "/static/media/Me.fe76195d4d9dd556365f.jpg",
+    "static/media/RamenDojo.png": "/static/media/RamenDojo.4a76374fef7db1d42e96.png",
+    "static/media/GameReview.png": "/static/media/GameReview.337c9744e4f344920720.png",
     "index.html": "/index.html",
-    "main.ff7e1730.css.map": "/static/css/main.ff7e1730.css.map",
-    "main.c87ee31b.js.map": "/static/js/main.c87ee31b.js.map",
+    "main.675639ed.css.map": "/static/css/main.675639ed.css.map",
+    "main.0531a78f.js.map": "/static/js/main.0531a78f.js.map",
     "787.3ba5e41c.chunk.js.map": "/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff7e1730.css",
-    "static/js/main.c87ee31b.js"
+    "static/css/main.675639ed.css",
+    "static/js/main.0531a78f.js"
   ]
 }
