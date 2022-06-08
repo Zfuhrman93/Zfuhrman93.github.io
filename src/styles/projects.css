@@ -1,0 +1,17 @@
+.demo-img{
+  height: 480px;
+  width: 854px;
+}
+
+.project-header{
+  margin-bottom: 10px;
+}
+
+.project-link{
+  text-decoration: none;
+}
+
+.project-row{
+  display: flex;
+  justify-content: space-evenly;
+}

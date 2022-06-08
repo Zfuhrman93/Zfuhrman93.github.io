@@ -1,0 +1,14 @@
+.summary-container{
+  margin: 0px 30px;
+  display:flex;
+  flex-direction: row;
+}
+
+.summary-text{
+  font-size: 1.3rem;
+}
+
+.photo{
+  height: 200px;
+  width: 170px;
+}

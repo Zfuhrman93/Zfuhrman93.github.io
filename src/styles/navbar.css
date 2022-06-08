@@ -1,0 +1,37 @@
+.nav-bar{
+  background-color: black;
+  color: white;
+}
+
+.nav-bar-headers{
+  background-color: black;
+}
+
+.nav-bar-list{
+  background-color: black;
+}
+
+.nav-bar-list a{
+  background-color: black;
+}
+
+.nav-bar ul{
+  margin: 15px 0px;
+  border-top: 1px solid white;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav-bar ul li{
+  margin: 15px 0px;
+}
+
+.nav-bar a{
+  text-decoration: none;
+  color: White
+}
+
+.nav-bar a:hover{
+  color: aqua;
+}
